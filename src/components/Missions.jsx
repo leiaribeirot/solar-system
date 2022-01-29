@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-export default class Missions extends Component {
-  render() {
-    return (
-      <div data-testid="missions"> </div>
-    );
-  }
+function Missions() {
+  return (
+    <div data-testid="missions" />
+  );
 }
+
+export default Missions;
