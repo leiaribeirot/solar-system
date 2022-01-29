@@ -1,0 +1,13 @@
+.missions-section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.titleMission {
+  font-size: 40px;
+  margin: -100px auto 50px;
+  padding: 33px;
+  text-align: center;
+  width: 45vmax;
+  background-image: url('../images/missions.png');
+}

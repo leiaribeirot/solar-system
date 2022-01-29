@@ -1,0 +1,34 @@
+.planetCard {
+  background-color: rgba(74, 94, 150, 0.342);
+  border-radius: 1750px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 500vh;
+
+}
+
+.planetCard p {
+  color: rgb(228, 215, 215);
+  font-size: 50px;
+  margin: -100px 110px 110px 100px;
+  text-align: center;
+}
+
+.planetCard img {
+  border: 10px;
+  filter: grayscale (80%);
+  height: 360px;
+  opacity: 0.6;
+  transform: scale(1);
+  transition: 0.2s ease-in-out;
+  width: 480px;
+}
+
+.planetCard img:hover {
+  cursor: pointer;
+  filter: grayscale(0);
+  opacity: 1;
+  transform: scale(1.8);
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,700;1,400;1,700&display=swap') ;
+
+.solarSystem {
+  display: flex;
+  justify-content: center;
+  transform: scale(00.33);
+
+}
+
+.titlePlanet {
+  margin: 80px auto -100px;
+  padding: 26px;
+  text-align: center;
+  background-image: url('../images/planets.png');
+  width: 56vmax;
+
+}

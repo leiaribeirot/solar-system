@@ -1,0 +1,43 @@
+p {
+  color: rgba(216, 13, 13, 0.842);
+}
+
+.missions-section {
+  display: flex-box;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.mission-card {
+  background-color: rgba(0, 0, 0, 0.308);
+  border: 2px solid rgba(211, 183, 183, 0.575);
+  border-radius: 15px;
+  height: 200px;
+  margin: 2px;
+  opacity: 1;
+  padding: 20px;
+  transition: 0.1s ease-in-out;
+  width: 260px;
+}
+
+.card-name {
+  height: 78px;
+}
+
+.card-name p {
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  height: 60%;
+  justify-content: center;
+}
+
+.card-content span {
+  color: rgba(255, 255, 255, 0.76);
+  font-size: 20px;
+  line-height: 30px;
+}

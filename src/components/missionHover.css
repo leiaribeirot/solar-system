@@ -1,0 +1,155 @@
+.apollo11:hover {
+  background-image: url('../images/missionsImg/apollo11.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.voyager1:hover {
+  background-image: url('../images/missionsImg/voyager1.jpg');
+  background-position: left center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.marspathfinder:hover {
+  background-image: url('../images/missionsImg/marspathfinder.jpg');
+  background-position: left center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.estacaointernacionalespacial:hover {
+  background-image: url('../images/missionsImg/estacaointernacionalespacial.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.kepler:hover {
+  background-image: url('../images/missionsImg/kepler.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.cassinihuygens:hover {
+  background-image: url('../images/missionsImg/cassinihuygens.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.mariner2:hover {
+  background-image: url('../images/missionsImg/mariner2.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.venera4:hover {
+  background-image: url('../images/missionsImg/venera4.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.mariner5:hover {
+  background-image: url('../images/missionsImg/mariner5.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.mariner10:hover {
+  background-image: url('../images/missionsImg/mariner10.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.venera16:hover {
+  background-image: url('../images/missionsImg/venera16.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.messenger:hover {
+  background-image: url('../images/missionsImg/messenger.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.genesis:hover {
+  background-image: url('../images/missionsImg/genesis.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.marsodyssey2001:hover {
+  background-image: url('../images/missionsImg/marsodyssey2001.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.marssurveyor98lander:hover {
+  background-image: url('../images/missionsImg/marssurveyor98lander.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.nozomi:hover {
+  background-image: url('../images/missionsImg/nozomi.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.fobos1:hover {
+  background-image: url('../images/missionsImg/fobos1.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.fobos2:hover {
+  background-image: url('../images/missionsImg/fobos2.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.galileo:hover {
+  background-image: url('../images/missionsImg/galileo.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.cassinihuygens2:hover {
+  background-image: url('../images/missionsImg/cassinihuygens2.jpg');
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+
+.mission-card:hover {
+  box-shadow: 3px 3px 15px white;
+  cursor: pointer;
+}
+
+.mission-card:hover .card-content span {
+  font-weight: 10;
+  text-shadow: 2px 0 0 black , -2px 0 0 black , 0 2px 0 black , 0 -2px 0 black;
+}
+
+.mission-card:hover .card-name p {
+  font-weight: 10;
+  text-shadow: 2px 0 0 black , -2px 0 0 black , 0 2px 0 black , 0 -2px 0 black;
+}
+
